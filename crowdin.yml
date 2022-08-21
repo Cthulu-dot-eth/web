@@ -1,0 +1,3 @@
+files:
+  - source: /src/app/configurations/translations/en.conf.ts
+    translation: /%original_path%/%two_letters_code%.json
